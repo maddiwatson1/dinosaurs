@@ -1,4 +1,2 @@
-<p>markdown: redcarpet</p>
-<p>baseurl: /dinosaurs</p>
-<p>&nbsp;</p>
-mark
+markdown: redcarpet
+baseurl: /dinosaurs
